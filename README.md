@@ -13,3 +13,4 @@
 - Space Age: https://exercism.io/tracks/rust/exercises/space-age/solutions/b98330434b2d40b780ec9dc33421204f
 - Sublist: https://exercism.io/tracks/rust/exercises/sublist/solutions/91cb0a46487c4c51b16ead0117f5ef8d
 - Minesweeper: https://exercism.io/tracks/rust/exercises/minesweeper/solutions/c37398895323416ab355ee447845fae9
+- Luhn: https://exercism.io/tracks/rust/exercises/luhn/solutions/d08847e7deb64f64a4c9707ad42783d2
