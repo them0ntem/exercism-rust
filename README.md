@@ -14,3 +14,4 @@
 - Sublist: https://exercism.io/tracks/rust/exercises/sublist/solutions/91cb0a46487c4c51b16ead0117f5ef8d
 - Minesweeper: https://exercism.io/tracks/rust/exercises/minesweeper/solutions/c37398895323416ab355ee447845fae9
 - Luhn: https://exercism.io/tracks/rust/exercises/luhn/solutions/d08847e7deb64f64a4c9707ad42783d2
+- Parallel Letter Frequency :https://exercism.io/tracks/rust/exercises/parallel-letter-frequency/solutions/f17c3882c96b4e85a377117b5fbaad41
