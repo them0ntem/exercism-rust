@@ -16,4 +16,5 @@
 - Luhn: https://exercism.io/tracks/rust/exercises/luhn/solutions/d08847e7deb64f64a4c9707ad42783d2
 - Parallel Letter Frequency: https://exercism.io/tracks/rust/exercises/parallel-letter-frequency/solutions/f17c3882c96b4e85a377117b5fbaad41
 - Poker: https://exercism.io/tracks/rust/exercises/poker/solutions/491b2f78e79d447b8ea12bc3521287f9
+- Forth: https://exercism.io/tracks/rust/exercises/forth/solutions/ea81510d26d143019de5b31281ed0365
 
